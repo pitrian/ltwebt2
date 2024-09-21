@@ -109,17 +109,17 @@ public class UserDaoImpl extends DBConnectMySQL implements IUserDao {
 
 	}
 
-	public static void main(String[] args) {
-		UserDaoImpl userDao = new UserDaoImpl();
-		UserModel newUser = new UserModel(6, "vanan", "777", "", "Van An", "vanan@gmail.com",2, "0765213678" ,java.sql.Date.valueOf("2004-01-01"));
-			try {
-				userDao.insert(newUser);
-				System.out.println("Đã chèn người dùng mới vào cơ sở dữ liệu.");
-			} catch (Exception e) {
-				e.printStackTrace();
-				System.out.println("Lỗi");
-			}		
-	}
+//	public static void main(String[] args) {
+//		UserDaoImpl userDao = new UserDaoImpl();
+//		UserModel newUser = new UserModel(6, "vanan", "777", "", "Van An", "vanan@gmail.com",2, "0765213678" ,java.sql.Date.valueOf("2004-01-01"));
+//			try {
+//				userDao.insert(newUser);
+//				System.out.println("Đã chèn người dùng mới vào cơ sở dữ liệu.");
+//			} catch (Exception e) {
+//				e.printStackTrace();
+//				System.out.println("Lỗi");
+//			}		
+//	}
 
 	@Override
 	public UserModel FindByUserName(String username) {
@@ -151,11 +151,11 @@ public class UserDaoImpl extends DBConnectMySQL implements IUserDao {
 	
 	
 	//test chay chương trình
-	public static void main1(String[] args) {
+	public static void main(String[] args) {
 		try {
 			IUserDao userDao = new UserDaoImpl();
 		
-			System.out.println(userDao.FindById(1));
+			System.out.println(userDao.FindByUserName("chungnm"));
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

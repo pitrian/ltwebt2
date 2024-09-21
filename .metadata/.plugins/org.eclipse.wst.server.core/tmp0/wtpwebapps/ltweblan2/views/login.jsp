@@ -7,7 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form action="/ltwebt2/login" method="post">
+	<form action="/ltweblan2/login" method="post">
+		<c:if test="${alert !=null}">
+			<h3 class="alert alertdanger">${alert}</h3>
+		</c:if>
 		<div class="container">
 			<label for="uname"><b>Username</b></label> <input type="text"
 				placeholder="Enter Username" name="uname" required> <label
