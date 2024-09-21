@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3755512985.index
+\ltweblan2\src\main\java

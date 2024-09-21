@@ -1,0 +1,29 @@
+package vn.iostar.dao.impl;
+
+import java.util.List;
+
+import vn.iostar.configs.DBConnectMySQL;
+import vn.iostar.dao.IUserDao;
+import vn.iostar.models.UserModel;
+
+public class UserDaoImpl extends DBConnectMySQL implements	IUserDao{
+
+	@Override
+	public List<UserModel> FindAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public UserModel FindById(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void insert(UserModel user) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

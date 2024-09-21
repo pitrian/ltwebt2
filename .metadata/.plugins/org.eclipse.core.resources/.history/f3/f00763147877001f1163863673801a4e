@@ -1,0 +1,18 @@
+package vn.iostar.configs;
+
+
+public class DBConnectSQL {
+	private final String serverName = "localhost";
+	private final String dbName = "ltwebt2";
+	private final String portNumber = "1433";
+	private final String instance ="";
+	private final String userID = "sa";
+	private final String password = "1234567@a$";
+
+	
+	public 	Connection getConnection() {
+		Conncection
+	}
+	
+	
+}
