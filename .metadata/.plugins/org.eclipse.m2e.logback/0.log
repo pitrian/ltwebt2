@@ -1375,3 +1375,456 @@ Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have 
 2024-09-21 18:50:53,433 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-09-21 18:50:53,436 [Worker-111: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2024-09-21 18:50:53,438 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-21 18:56:32,746 [Worker-118: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-21 18:56:32,757 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-21 18:56:32,761 [Worker-118: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-21 18:56:32,779 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-23 12:58:08,229 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-09-23 12:59:17,252 [Worker-7: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-09-23 12:59:17,286 [Worker-7: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/HELLOWORLD: vn_iotstar:HELLOWORLD:1.1.0 with classifier  to /HELLOWORLD/target/classes
+2024-09-23 13:00:53,264 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-23 13:00:53,278 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-23 13:00:53,289 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-23 13:00:53,295 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-23 13:01:36,481 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-23 13:01:36,843 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-23 13:01:36,850 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-23 13:01:36,854 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-23 13:01:56,969 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-23 13:01:56,973 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-23 13:01:56,980 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-23 13:01:56,983 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-23 13:04:48,171 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vn.iostar:ltweblan2:1.1.0 @ C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\ltweblan2\pom.xml.
+2024-09-23 13:04:51,223 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sitemesh/sitemesh/3.2.1/sitemesh-3.2.1.pom
+2024-09-23 13:04:51,273 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sitemesh/sitemesh/3.2.1/sitemesh-3.2.1.pom
+2024-09-23 13:04:51,361 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-09-23 13:04:51,380 [Worker-7: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/HELLOWORLD: vn_iotstar:HELLOWORLD:1.1.0 with classifier  to /HELLOWORLD/target/classes
+2024-09-23 13:04:51,394 [Worker-7: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/HELLOWORLD: vn_iotstar:HELLOWORLD:1.1.0 with classifier  to /HELLOWORLD/target/classes
+2024-09-23 13:04:51,479 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sitemesh/sitemesh/3.2.1/sitemesh-3.2.1.jar
+2024-09-23 13:04:53,607 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sitemesh/sitemesh/3.2.1/sitemesh-3.2.1.jar
+2024-09-23 13:04:53,653 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-09-23 13:04:53,852 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-09-23 13:04:53,874 [Worker-7: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/HELLOWORLD: vn_iotstar:HELLOWORLD:1.1.0 with classifier  to /HELLOWORLD/target/classes
+2024-09-23 13:04:55,374 [Worker-7: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-23 13:04:55,387 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-23 13:04:55,429 [Worker-7: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-23 13:04:55,433 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-23 13:04:55,442 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ltweblan2
+2024-09-23 13:04:55,443 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ltweblan2
+2024-09-23 13:04:57,273 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sitemesh/sitemesh/3.2.1/sitemesh-3.2.1-sources.jar
+2024-09-23 13:04:59,385 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sitemesh/sitemesh/3.2.1/sitemesh-3.2.1-sources.jar
+2024-09-23 13:04:59,396 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.sitemesh:sitemesh:3.2.1
+2024-09-23 13:06:32,127 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-23 13:06:32,135 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-23 13:06:32,143 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-23 13:06:32,147 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-23 13:28:15,655 [Worker-11: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-23 13:28:15,704 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-23 13:28:15,720 [Worker-11: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-23 13:28:15,728 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-23 15:01:31,336 [Worker-27: Launching DBConnectSQL] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/HELLOWORLD: vn_iotstar:HELLOWORLD:1.1.0 with classifier null to /HELLOWORLD/target/classes
+2024-09-23 15:01:31,421 [Worker-27: Launching DBConnectSQL] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/HELLOWORLD: vn_iotstar:HELLOWORLD:1.1.0 with classifier null to /HELLOWORLD/target/classes
+2024-09-23 15:01:31,518 [Worker-27: Launching DBConnectSQL] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/HELLOWORLD: vn_iotstar:HELLOWORLD:1.1.0 with classifier null to /HELLOWORLD/target/classes
+2024-09-23 15:38:29,063 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-23 15:38:29,085 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-23 15:38:29,093 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-23 15:38:29,099 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-09 08:58:11,723 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-09 09:05:05,447 [Worker-0: Creating project "ltweb"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vn.iostar:ltweb:1.1.0 @ C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\ltweb\pom.xml.
+2024-10-09 09:05:21,001 [Worker-0: Creating project "ltweb"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ltweb/src/main/java
+2024-10-09 09:05:21,009 [Worker-0: Creating project "ltweb"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ltweb/src/main/resources
+2024-10-09 09:05:21,012 [Worker-0: Creating project "ltweb"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ltweb/src/test/java
+2024-10-09 09:05:21,014 [Worker-0: Creating project "ltweb"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ltweb/src/test/resources
+2024-10-09 09:05:40,090 [Worker-10: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:05:40,111 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 09:05:40,216 [Worker-10: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:05:40,220 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-09 09:05:54,136 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-09 09:05:55,755 [Worker-10: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/HELLOWORLD: vn_iotstar:HELLOWORLD:1.1.0 with classifier  to /HELLOWORLD/target/classes
+2024-10-09 09:21:45,824 [Worker-17: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-09 09:24:46,819 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vn.iostar:ltweb:1.1.0 @ C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\ltweb\pom.xml.
+2024-10-09 09:24:54,007 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:24:54,015 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 09:24:54,028 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:24:54,032 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-09 09:32:03,755 [Worker-12: Creating project "laptrinhweb"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vn.iostar:laptrinhweb:1.1.0 @ C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\laptrinhweb\pom.xml.
+2024-10-09 09:32:12,238 [Worker-12: Creating project "laptrinhweb"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /laptrinhweb/src/main/java
+2024-10-09 09:32:12,240 [Worker-12: Creating project "laptrinhweb"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /laptrinhweb/src/main/resources
+2024-10-09 09:32:12,241 [Worker-12: Creating project "laptrinhweb"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /laptrinhweb/src/test/java
+2024-10-09 09:32:12,243 [Worker-12: Creating project "laptrinhweb"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /laptrinhweb/src/test/resources
+2024-10-09 09:32:13,863 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:32:13,867 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 09:32:13,875 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:32:13,879 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-09 09:32:15,591 [Worker-21: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:32:15,599 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 09:32:15,608 [Worker-21: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:32:15,611 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-09 09:38:14,970 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-09 09:38:15,154 [Worker-12: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/HELLOWORLD: vn_iotstar:HELLOWORLD:1.1.0 with classifier  to /HELLOWORLD/target/classes
+2024-10-09 09:38:18,336 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vn.iostar:ltweblan2:1.1.0 @ C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\laptrinhweb\pom.xml.
+2024-10-09 09:38:18,346 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-09 09:38:18,370 [Worker-12: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/HELLOWORLD: vn_iotstar:HELLOWORLD:1.1.0 with classifier  to /HELLOWORLD/target/classes
+2024-10-09 09:38:18,716 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-09 09:38:18,884 [Worker-12: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/HELLOWORLD: vn_iotstar:HELLOWORLD:1.1.0 with classifier  to /HELLOWORLD/target/classes
+2024-10-09 09:38:22,698 [Worker-12: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:38:22,720 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 09:38:22,737 [Worker-12: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:38:22,757 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-09 09:38:22,827 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of laptrinhweb
+2024-10-09 09:38:22,829 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for laptrinhweb
+2024-10-09 09:38:24,635 [Worker-26: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-09 09:38:25,544 [Worker-26: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vn.iostar:ltweblan2:1.1.0 @ C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\laptrinhweb\pom.xml.
+2024-10-09 09:38:25,658 [Worker-26: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-09 09:38:25,699 [Worker-26: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/HELLOWORLD: vn_iotstar:HELLOWORLD:1.1.0 with classifier  to /HELLOWORLD/target/classes
+2024-10-09 09:38:26,289 [Worker-26: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-09 09:38:27,988 [Worker-26: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/vn_iotstar/HELLOWORLD/1.1.0/HELLOWORLD-1.1.0.jar
+2024-10-09 09:38:29,703 [Worker-26: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /laptrinhweb/src/main/java
+2024-10-09 09:38:29,712 [Worker-26: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /laptrinhweb/src/main/resources
+2024-10-09 09:38:29,714 [Worker-26: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /laptrinhweb/src/test/java
+2024-10-09 09:38:29,717 [Worker-26: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /laptrinhweb/src/test/resources
+2024-10-09 09:38:31,764 [Worker-26: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for laptrinhweb
+2024-10-09 09:38:31,814 [Worker-26: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 4.00 sec, update config takes 1.00 sec 
+2024-10-09 09:38:32,087 [Worker-12: Building Project laptrinhweb] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:38:32,091 [Worker-12: Building Project laptrinhweb] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 09:38:32,099 [Worker-12: Building Project laptrinhweb] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:38:32,101 [Worker-12: Building Project laptrinhweb] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-09 09:38:32,102 [Worker-12: Building Project laptrinhweb] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of laptrinhweb
+2024-10-09 09:38:32,102 [Worker-12: Building Project laptrinhweb] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for laptrinhweb
+2024-10-09 09:40:48,118 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:40:48,175 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 09:40:48,184 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:40:48,189 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-09 09:44:58,814 [Worker-34: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vn.iostar:ltweblan2:1.1.0 @ C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\ltweblan2\pom.xml.
+2024-10-09 09:45:00,194 [Worker-34: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/vn_iotstar/HELLOWORLD/1.1.0/HELLOWORLD-1.1.0.pom
+2024-10-09 09:45:00,203 [Worker-34: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vn_iotstar:HELLOWORLD:jar:1.1.0 is missing, no dependency information available
+2024-10-09 09:45:00,337 [Worker-34: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-09 09:45:00,935 [Worker-34: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vn.iostar:ltweblan2:1.1.0 @ C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\laptrinhweb\pom.xml.
+2024-10-09 09:45:00,940 [Worker-34: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-09 09:45:03,687 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/vn_iotstar/HELLOWORLD/1.1.0/HELLOWORLD-1.1.0-javadoc.jar
+2024-10-09 09:45:03,710 [Worker-17: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for vn_iotstar:HELLOWORLD:1.1.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact vn_iotstar:HELLOWORLD:jar:javadoc:1.1.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-09 09:46:00,482 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vn.iostar:ltweblan2:1.1.0 @ C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\laptrinhweb\pom.xml.
+2024-10-09 09:46:01,028 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/vn_iotstar/laptrinhweb/1.1.0/laptrinhweb-1.1.0.pom
+2024-10-09 09:46:01,032 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vn_iotstar:laptrinhweb:jar:1.1.0 is missing, no dependency information available
+2024-10-09 09:46:01,034 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-09 09:46:01,347 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/vn_iotstar/laptrinhweb/1.1.0/laptrinhweb-1.1.0.jar
+2024-10-09 09:46:01,358 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-09 09:46:04,258 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:46:04,270 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 09:46:04,282 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:46:04,285 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-09 09:46:04,289 [Worker-36: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of laptrinhweb
+2024-10-09 09:46:04,291 [Worker-36: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for laptrinhweb
+2024-10-09 09:46:05,481 [Worker-34: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/vn_iotstar/laptrinhweb/1.1.0/laptrinhweb-1.1.0-sources.jar
+2024-10-09 09:46:05,488 [Worker-34: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for vn_iotstar:laptrinhweb:1.1.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact vn_iotstar:laptrinhweb:jar:sources:1.1.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-09 09:48:48,169 [Worker-25: Creating project "laptrinhwebt2"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vn.iostar:laptrinhwebt2:1.1.0 @ C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\laptrinhwebt2\pom.xml.
+2024-10-09 09:48:48,589 [Worker-25: Creating project "laptrinhwebt2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2024-10-09 09:48:48,694 [Worker-25: Creating project "laptrinhwebt2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2024-10-09 09:48:48,848 [Worker-25: Creating project "laptrinhwebt2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2024-10-09 09:48:48,900 [Worker-25: Creating project "laptrinhwebt2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2024-10-09 09:48:48,966 [Worker-25: Creating project "laptrinhwebt2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /laptrinhwebt2/src/main/java
+2024-10-09 09:48:48,968 [Worker-25: Creating project "laptrinhwebt2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /laptrinhwebt2/src/main/resources
+2024-10-09 09:48:48,969 [Worker-25: Creating project "laptrinhwebt2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /laptrinhwebt2/src/test/java
+2024-10-09 09:48:48,971 [Worker-25: Creating project "laptrinhwebt2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /laptrinhwebt2/src/test/resources
+2024-10-09 09:48:50,552 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:48:50,556 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 09:48:50,562 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:48:50,565 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-09 09:48:51,665 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:48:51,670 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 09:48:51,673 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:48:51,692 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-09 09:49:38,015 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.33/mysql-connector-java-8.0.33.pom
+2024-10-09 09:49:38,077 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.33/mysql-connector-java-8.0.33.pom
+2024-10-09 09:49:38,170 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.1.0/jakarta.servlet-api-6.1.0.pom
+2024-10-09 09:49:38,278 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.1.0/jakarta.servlet-api-6.1.0.pom
+2024-10-09 09:49:38,389 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.2/jakarta.servlet.jsp.jstl-api-3.0.2.pom
+2024-10-09 09:49:38,624 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.2/jakarta.servlet.jsp.jstl-api-3.0.2.pom
+2024-10-09 09:49:38,712 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.pom
+2024-10-09 09:49:38,859 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.pom
+2024-10-09 09:49:38,951 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0.pom
+2024-10-09 09:49:39,027 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0.pom
+2024-10-09 09:49:39,129 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jakarta.servlet.jsp-api/4.0.0/jakarta.servlet.jsp-api-4.0.0.pom
+2024-10-09 09:49:39,207 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jakarta.servlet.jsp-api/4.0.0/jakarta.servlet.jsp-api-4.0.0.pom
+2024-10-09 09:49:39,542 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/vn_iotstar/laptrinhwebt2/1.1.0/laptrinhwebt2-1.1.0.pom
+2024-10-09 09:49:39,546 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vn_iotstar:laptrinhwebt2:jar:1.1.0 is missing, no dependency information available
+2024-10-09 09:49:39,550 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-09 09:49:39,640 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.1.0/jakarta.servlet-api-6.1.0.jar
+2024-10-09 09:49:40,747 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.1.0/jakarta.servlet-api-6.1.0.jar
+2024-10-09 09:49:40,818 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.2/jakarta.servlet.jsp.jstl-api-3.0.2.jar
+2024-10-09 09:49:40,938 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0.jar
+2024-10-09 09:49:40,940 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jakarta.servlet.jsp-api/4.0.0/jakarta.servlet.jsp-api-4.0.0.jar
+2024-10-09 09:49:41,129 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jakarta.servlet.jsp-api/4.0.0/jakarta.servlet.jsp-api-4.0.0.jar
+2024-10-09 09:49:41,144 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/vn_iotstar/laptrinhwebt2/1.1.0/laptrinhwebt2-1.1.0.jar
+2024-10-09 09:49:41,147 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0.jar
+2024-10-09 09:49:41,927 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.2/jakarta.servlet.jsp.jstl-api-3.0.2.jar
+2024-10-09 09:49:42,043 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vn.iostar:ltweblan2:1.1.0 @ C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\laptrinhwebt2\pom.xml.
+2024-10-09 09:49:42,046 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-09 09:49:42,164 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vn.iostar:ltweblan2:1.1.0 @ C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\ltweblan2\pom.xml.
+2024-10-09 09:49:42,446 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/vn_iotstar/HELLOWORLD/1.1.0/HELLOWORLD-1.1.0.pom
+2024-10-09 09:49:42,449 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vn_iotstar:HELLOWORLD:jar:1.1.0 is missing, no dependency information available
+2024-10-09 09:49:42,451 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-09 09:49:42,752 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/vn_iotstar/HELLOWORLD/1.1.0/HELLOWORLD-1.1.0.jar
+2024-10-09 09:49:43,590 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-09 09:49:43,928 [Worker-39: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:49:43,935 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 09:49:43,941 [Worker-39: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:49:43,944 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-09 09:49:43,944 [Worker-39: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of laptrinhwebt2
+2024-10-09 09:49:43,944 [Worker-39: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for laptrinhwebt2
+2024-10-09 09:49:44,287 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-09 09:49:44,614 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vn.iostar:ltweblan2:1.1.0 @ C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\laptrinhwebt2\pom.xml.
+2024-10-09 09:49:44,712 [Worker-25: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vn_iotstar:laptrinhwebt2:jar:1.1.0 is missing, no dependency information available
+2024-10-09 09:49:44,714 [Worker-25: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-09 09:49:44,757 [Worker-25: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-09 09:49:44,985 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.1.0/jakarta.servlet-api-6.1.0-sources.jar
+2024-10-09 09:49:45,692 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.1.0/jakarta.servlet-api-6.1.0-sources.jar
+2024-10-09 09:49:45,699 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.servlet:jakarta.servlet-api:6.1.0
+2024-10-09 09:49:45,937 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.2/jakarta.servlet.jsp.jstl-api-3.0.2-sources.jar
+2024-10-09 09:49:46,067 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.2/jakarta.servlet.jsp.jstl-api-3.0.2-sources.jar
+2024-10-09 09:49:46,074 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:3.0.2
+2024-10-09 09:49:46,287 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0-sources.jar
+2024-10-09 09:49:46,404 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /laptrinhwebt2/src/main/java
+2024-10-09 09:49:46,408 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /laptrinhwebt2/src/main/resources
+2024-10-09 09:49:46,409 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /laptrinhwebt2/src/test/java
+2024-10-09 09:49:46,410 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /laptrinhwebt2/src/test/resources
+2024-10-09 09:49:46,465 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0-sources.jar
+2024-10-09 09:49:46,472 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.el:jakarta.el-api:5.0.0
+2024-10-09 09:49:46,654 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jakarta.servlet.jsp-api/4.0.0/jakarta.servlet.jsp-api-4.0.0-sources.jar
+2024-10-09 09:49:46,810 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jakarta.servlet.jsp-api/4.0.0/jakarta.servlet.jsp-api-4.0.0-sources.jar
+2024-10-09 09:49:46,815 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.servlet.jsp:jakarta.servlet.jsp-api:4.0.0
+2024-10-09 09:49:47,235 [Worker-25: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for laptrinhwebt2
+2024-10-09 09:49:47,268 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-10-09 09:49:47,309 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/vn_iotstar/HELLOWORLD/1.1.0/HELLOWORLD-1.1.0-sources.jar
+2024-10-09 09:49:47,314 [Worker-38: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for vn_iotstar:HELLOWORLD:1.1.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact vn_iotstar:HELLOWORLD:jar:sources:1.1.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-09 09:49:47,322 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.servlet:jakarta.servlet-api:6.1.0
+2024-10-09 09:49:47,330 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:3.0.2
+2024-10-09 09:49:47,336 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.el:jakarta.el-api:5.0.0
+2024-10-09 09:49:47,342 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.servlet.jsp:jakarta.servlet.jsp-api:4.0.0
+2024-10-09 09:49:47,377 [Worker-25: Building Project laptrinhwebt2] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:49:47,379 [Worker-25: Building Project laptrinhwebt2] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 09:49:47,385 [Worker-25: Building Project laptrinhwebt2] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:49:47,388 [Worker-25: Building Project laptrinhwebt2] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-09 09:49:47,389 [Worker-25: Building Project laptrinhwebt2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of laptrinhwebt2
+2024-10-09 09:49:47,389 [Worker-25: Building Project laptrinhwebt2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for laptrinhwebt2
+2024-10-09 09:49:47,791 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/vn_iotstar/laptrinhwebt2/1.1.0/laptrinhwebt2-1.1.0-sources.jar
+2024-10-09 09:49:47,797 [Worker-38: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for vn_iotstar:laptrinhwebt2:1.1.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact vn_iotstar:laptrinhwebt2:jar:sources:1.1.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-09 09:49:53,797 [Worker-39: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'build' (position: START_TAG seen ...</dependency>\r\n\r\n\r\n\r\n\t<build>... @63:9) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'build' (position: START_TAG seen ...</dependency>\r\n\r\n\r\n\r\n\t<build>... @63:9) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:181)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2325)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-10-09 09:51:51,375 [Worker-41: reload maven project] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\laptrinhwebt2\pom.xml: end tag name </project> must match start tag name <dependencies> from line 9 (position: TEXT seen ...</build>\r\n\r\n</project>... @92:11)  @ line 92, column 11
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\laptrinhwebt2\pom.xml: end tag name </project> must match start tag name <dependencies> from line 9 (position: TEXT seen ...</build>\r\n\r\n</project>... @92:11)  @ line 92, column 11
+
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readMavenProjects(IMavenToolbox.java:140)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:943)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:939)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:219)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:105)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:239)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:709)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1029)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-09 09:51:51,975 [Worker-40: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'build' (position: START_TAG seen ...</dependency>\r\n\r\n\r\n\r\n\r\n\t<build>... @64:9) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'build' (position: START_TAG seen ...</dependency>\r\n\r\n\r\n\r\n\r\n\t<build>... @64:9) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:181)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2325)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-10-09 09:52:41,190 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vn.iostar:ltweblan2:1.1.0 @ C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\ltweblan2\pom.xml.
+2024-10-09 09:52:41,542 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/vn_iostar/HELLOWORLD/1.1.0/HELLOWORLD-1.1.0.pom
+2024-10-09 09:52:41,546 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vn_iostar:HELLOWORLD:jar:1.1.0 is missing, no dependency information available
+2024-10-09 09:52:41,548 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-09 09:52:41,644 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/vn_iostar/HELLOWORLD/1.1.0/HELLOWORLD-1.1.0.jar
+2024-10-09 09:52:41,655 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-09 09:52:42,950 [Worker-39: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:52:42,952 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 09:52:42,958 [Worker-39: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-09 09:52:42,960 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-09 09:52:42,961 [Worker-39: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ltweblan2
+2024-10-09 09:52:42,961 [Worker-39: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ltweblan2
+2024-10-09 09:52:44,272 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/vn_iostar/HELLOWORLD/1.1.0/HELLOWORLD-1.1.0-sources.jar
+2024-10-09 09:52:44,276 [Worker-41: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for vn_iostar:HELLOWORLD:1.1.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact vn_iostar:HELLOWORLD:jar:sources:1.1.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-10 22:17:27,822 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-10 22:17:30,401 [Worker-3: reload maven project] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\laptrinhwebt2\pom.xml: end tag name </project> must match start tag name <dependencies> from line 9 (position: TEXT seen ...</build>\r\n\r\n</project>... @92:11)  @ line 92, column 11
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\laptrinhwebt2\pom.xml: end tag name </project> must match start tag name <dependencies> from line 9 (position: TEXT seen ...</build>\r\n\r\n</project>... @92:11)  @ line 92, column 11
+
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readMavenProjects(IMavenToolbox.java:140)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:943)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:939)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:219)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:105)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:239)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:709)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1029)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
